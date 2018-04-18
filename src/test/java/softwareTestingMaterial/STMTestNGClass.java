@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 public class STMTestNGClass {
 	
-	
+	//This is an intentional comment
 	public WebDriver driver;
 	 
 	  @Test
