@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="softwaretestingmaterial" duration-ms="10961" started-at="2018-04-17T13:17:18Z" finished-at="2018-04-17T13:17:29Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="10961" started-at="2018-04-17T13:17:18Z" finished-at="2018-04-17T13:17:29Z">
+      <class name="softwareTestingMaterial.STMTestNGClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:softwareTestingMaterial.STMTestNGClass@ceb130]" name="beforeClass" is-config="true" duration-ms="3795" started-at="2018-04-17T13:17:18Z" finished-at="2018-04-17T13:17:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openMyBlog()[pri:0, instance:softwareTestingMaterial.STMTestNGClass@ceb130]" name="openMyBlog" duration-ms="5388" started-at="2018-04-17T13:17:21Z" finished-at="2018-04-17T13:17:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMyBlog -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:softwareTestingMaterial.STMTestNGClass@ceb130]" name="afterClass" is-config="true" duration-ms="1745" started-at="2018-04-17T13:17:27Z" finished-at="2018-04-17T13:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- softwareTestingMaterial.STMTestNGClass -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
