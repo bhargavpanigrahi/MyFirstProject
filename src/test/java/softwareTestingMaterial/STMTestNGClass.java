@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 public class STMTestNGClass {
 	
 	//This is an intentional comment
+	//This is a line from Eclipse
 	public WebDriver driver;
 	 
 	  @Test
