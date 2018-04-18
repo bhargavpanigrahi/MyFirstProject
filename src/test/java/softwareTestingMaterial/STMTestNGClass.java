@@ -11,6 +11,7 @@ public class STMTestNGClass {
 	
 	//This is an intentional comment
 	//This is a line from Eclipse
+	//sample test
 	public WebDriver driver;
 	 
 	  @Test
